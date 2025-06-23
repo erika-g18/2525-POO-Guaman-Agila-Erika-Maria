@@ -1,4 +1,4 @@
-"""ejemplo de poo en un restaurante para realizar reservas en linea"""
+"""ejemplo de P.O.O en un restaurante para realizar reservas en linea"""
 
 
 # Clase que representa el menú del restaurante
