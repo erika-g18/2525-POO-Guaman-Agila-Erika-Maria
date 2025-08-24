@@ -1,0 +1,38 @@
+[
+    {
+        "id_producto": "0001",
+        "nombre": "atun",
+        "cantidad": 5,
+        "precio": 1.25
+    },
+    {
+        "id_producto": "0002",
+        "nombre": "aceite",
+        "cantidad": 6,
+        "precio": 1.5
+    },
+    {
+        "id_producto": "0004",
+        "nombre": "arroz",
+        "cantidad": 154,
+        "precio": 25.0
+    },
+    {
+        "id_producto": "0008",
+        "nombre": "queso",
+        "cantidad": 78,
+        "precio": 2.5
+    },
+    {
+        "id_producto": "0005",
+        "nombre": "mantequilla",
+        "cantidad": 65,
+        "precio": 2.0
+    },
+    {
+        "id_producto": "0006",
+        "nombre": "sal",
+        "cantidad": 45,
+        "precio": 0.9
+    }
+]
