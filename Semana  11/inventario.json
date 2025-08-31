@@ -1,0 +1,44 @@
+{
+    "0007": {
+        "id": "0007",
+        "nombre": "fresas ",
+        "cantidad": 151,
+        "precio": 1.25
+    },
+    "0008": {
+        "id": "0008",
+        "nombre": "Manzanas ",
+        "cantidad": 75,
+        "precio": 25.0
+    },
+    "00074": {
+        "id": "00074",
+        "nombre": "Mango ",
+        "cantidad": 45,
+        "precio": 12.0
+    },
+    "0054": {
+        "id": "0054",
+        "nombre": "Peras ",
+        "cantidad": 65,
+        "precio": 3.0
+    },
+    "0002": {
+        "id": "0002",
+        "nombre": "Banana",
+        "cantidad": 89,
+        "precio": 2.0
+    },
+    "0004": {
+        "id": "0004",
+        "nombre": "limon",
+        "cantidad": 58,
+        "precio": 1.2
+    },
+    "78400": {
+        "id": "78400",
+        "nombre": "naranjas ",
+        "cantidad": 48,
+        "precio": 2.0
+    }
+}
