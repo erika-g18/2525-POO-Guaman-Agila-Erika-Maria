@@ -1,0 +1,75 @@
+{
+    "libros": {
+        "001": {
+            "titulo": "viaje a tu corazón",
+            "autor": "maria perez",
+            "categoria": "romantico",
+            "isbn": "001"
+        },
+        "0007": {
+            "titulo": "te veo",
+            "autor": "anguel soto",
+            "categoria": "terror",
+            "isbn": "0007"
+        },
+        "009": {
+            "titulo": "uso de geogebla",
+            "autor": "alexis tamayo",
+            "categoria": "educacion",
+            "isbn": "009"
+        },
+        "008": {
+            "titulo": "viaje a la luna",
+            "autor": "jose flores",
+            "categoria": "ficcion ",
+            "isbn": "008"
+        }
+    },
+    "usuarios": {
+        "111": {
+            "nombre": "daniel cruz",
+            "id_usuario": "111",
+            "libros_prestados": []
+        },
+        "222": {
+            "nombre": "jonathan guaman",
+            "id_usuario": "222",
+            "libros_prestados": []
+        },
+        "333": {
+            "nombre": "sebastian agila",
+            "id_usuario": "333",
+            "libros_prestados": [
+                {
+                    "titulo": "leyes de la fisica",
+                    "autor": "diego fermando shingre",
+                    "categoria": "educativo",
+                    "isbn": "006"
+                }
+            ]
+        },
+        "0005": {
+            "nombre": "222",
+            "id_usuario": "0005",
+            "libros_prestados": []
+        },
+        "444": {
+            "nombre": "ariana nicol",
+            "id_usuario": "444",
+            "libros_prestados": [
+                {
+                    "titulo": "cenicienta",
+                    "autor": "anahi sanchez",
+                    "categoria": "infantil",
+                    "isbn": "010"
+                },
+                {
+                    "titulo": "isla encantada ",
+                    "autor": "miguel lopez",
+                    "categoria": "fantasia",
+                    "isbn": "0005"
+                }
+            ]
+        }
+    }
+}
