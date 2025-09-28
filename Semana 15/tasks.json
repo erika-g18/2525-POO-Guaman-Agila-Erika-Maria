@@ -1,0 +1,27 @@
+{
+    "1": {
+        "text": "salir a corre el martes por la mañana",
+        "completed": false,
+        "datetime": "2025-09-27 22:47:28"
+    },
+    "2": {
+        "text": "comprar ropa para maria",
+        "completed": false,
+        "datetime": "2025-09-27 22:47:46"
+    },
+    "3": {
+        "text": "terminar las tareas de matematicas",
+        "completed": true,
+        "datetime": "2025-09-27 22:48:07"
+    },
+    "4": {
+        "text": "partido de futbol en viernes a las 5",
+        "completed": false,
+        "datetime": "2025-09-27 22:48:42"
+    },
+    "5": {
+        "text": "comprar el regalo para maria",
+        "completed": true,
+        "datetime": "2025-09-27 22:49:06"
+    }
+}
