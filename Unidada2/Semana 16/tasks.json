@@ -1,0 +1,18 @@
+[
+    {
+        "text": "comprar comida a lucas",
+        "completed": true
+    },
+    {
+        "text": "cena por amistad 9.30 lunes",
+        "completed": false
+    },
+    {
+        "text": "caminar en la tarde",
+        "completed": false
+    },
+    {
+        "text": "ejercicios en la noche",
+        "completed": false
+    }
+]
